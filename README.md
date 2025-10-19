@@ -42,7 +42,7 @@ I’m **M. Yusuf (aka Ucuk)**, a fullstack developer and cybersecurity enthusias
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/m-yusuf-497204328/" target="_blank"><img src="https://img.shields.io/badge/-Ucuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/m-yusuf-497204328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ucuk-0077B5?logo=linkedin&logoColor=white" /></a>
     <a target="_blank" href="mailto:ronin092482@gmail.com"><img src="https://img.shields.io/badge/-ronin092482@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://t.me/Yusf048" target="_blank"> <img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram" /> </a>
     <a href="https://wa.me/6285954770448" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp" />
