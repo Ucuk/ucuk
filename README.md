@@ -1,18 +1,6 @@
 # Hi, I'm Ucuk 
 ## About Me:
 
-- Actively dominating international cybersecurity CTFs and AI hackathons (2025 edition: Black Hat Asia winner).
-- Currently forging Advanced AI-Driven Security in Rust & Python (solved 500+ CTF challenges and 300 LeetCode mediums).
-- Doing BSCS from [Your Uni] (4.0/4.0 CGPA: currently in final semester, thesis on quantum-resistant IoT).
-- Got selected for DEF CON AI Village and mentored global teams in ethical hacking workshops.
-- Typing speed 120 WPM (cyberpunk mode activated).
-- Won Red Team Championship at Pwn2Own 2025.
-- Cracked OSCP lab in record time (first try, zero exploits leaked).
-- Topped national Cyber Olympiad with perfect score in network defense.
-- Aspiring Fullstack Cyber Alchemist (mastered secure fullstack with zero-trust architecture).
-- Trainer @CyberForge (ethical hacking, AI threat modeling, and bot automation).
-- Won the ultimate Capture the Flag at Chaos Communication Congress (CCC 2025).
-- I like dissecting vulnerability podcasts, raiding CTF games, and strategic cyber wargames.
 
 ## Skill Set:
 
@@ -48,7 +36,7 @@
 ## Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/m-yusuf-497204328/" target="_blank"><img src="https://img.shields.io/badge/-Ucuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:ronin092482@gmail.com"><img src="https://img.shields.io/badge/-ucuk@cyberforge.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:ronin092482@gmail.com"><img src="https://img.shields.io/badge/-ronin092482@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
  ## Github Stats:
