@@ -97,14 +97,14 @@
 <div align="center">
   <table>
     <tr>
-      <td width="45%;"><a href="https://github.com/ucuk/iot-cyber-dominion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=iot-cyber-dominion&theme=radical"/></a></td>
+      <td width="45%;"><a href="https://github.com/ucuk/jx-45"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=iot-cyber-dominion&theme=radical"/></a></td>
       <td width="10px"></td>
-      <td width="45%;"><a href="https://github.com/ucuk/ai-breach-oracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=ai-breach-oracle&theme=radical"/></a></td>
+      <td width="45%;"><a href="https://github.com/ucuk/ai-jx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=ai-breach-oracle&theme=radical"/></a></td>
     </tr>
     <tr>
-      <td width="45%;"><a href="https://github.com/ucuk/legion-bot-swarm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=legion-bot-swarm&theme=radical"/></a></td>
+      <td width="45%;"><a href="https://github.com/ucuk/validasi-sertifikat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=legion-bot-swarm&theme=radical"/></a></td>
       <td width="10px"></td>
-      <td width="45%;"><a href="https://github.com/ucuk/forge-secure-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=forge-secure-backend&theme=radical"/></a></td>
+      <td width="45%;"><a href="https://github.com/ucuk/beautyclinic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ucuk&repo=forge-secure-backend&theme=radical"/></a></td>
     </tr>
   </table>
 </div>
