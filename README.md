@@ -1,5 +1,4 @@
 # Hi, I'm Ucuk
-<h1 align="center">Ucuk</h1>
 <h3 align="center">Fullstack Developer | Cybersecurity Engineer | IoT & AI Innovator</h3>
 
 <p align="center">
