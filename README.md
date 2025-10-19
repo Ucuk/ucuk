@@ -1,6 +1,12 @@
-# Hi, I'm Ucuk 
-## About Me:
+# Hi, I'm Ucuk
+<h1 align="center">Ucuk</h1>
+<h3 align="center">Fullstack Developer | Cybersecurity Engineer | IoT & AI Innovator</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+IoT+Engineer;AI+%26+Cybersecurity+Researcher;📱+WhatsApp+%2F+Telegram+Bot+Developer;🌐+MySQL+%2F+JavaScript+%2F+Node.js+Expert" alt="Typing Animation" />
+</p>
+## About Me:
+I’m **M. Yusuf (aka Ucuk)**, a fullstack developer and cybersecurity enthusiast.  
 
 ## Skill Set:
 
@@ -37,6 +43,9 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/m-yusuf-497204328/" target="_blank"><img src="https://img.shields.io/badge/-Ucuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:ronin092482@gmail.com"><img src="https://img.shields.io/badge/-ronin092482@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://t.me/Yusf048" target="_blank"> <img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram" /> </a>
+    <a href="https://wa.me/6285954770448" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp" />
+</a>
 </div>
 
  ## Github Stats:
