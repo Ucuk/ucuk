@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Fullstack+Developer+%7C+IoT+Engineer;🤖+AI+%26+Cybersecurity+Researcher;📱+WhatsApp+%2F+Telegram+Bot+Developer;🌐+MySQL+%2F+JavaScript+%2F+Node.js+Expert" alt="Typing Animation" />
 </p>
+
 ## About Me:
 
 I’m **M. Yusuf (aka Ucuk)**, a fullstack developer and cybersecurity enthusiast.  
