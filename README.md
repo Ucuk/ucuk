@@ -21,7 +21,7 @@
 ### Frontend  
 <a href="https://github.com/ucuk">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,php,css,tailwind,bootstrap,js&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -29,7 +29,7 @@
 ### Languages
 <a href="https://github.com/ucuk">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=python,js,cpp,java,nodejs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=python,js,php,,mysql,cpp,java,nodejs&perline=4" /> 
 </div>
 </a>
 
@@ -76,7 +76,7 @@
 
 <div id="header" align="center">
   
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ucuk&theme=onedark" alt="ucuk" /></a> </p>
+  <p align="center"> <a href="https://github.com/ucuk/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ucuk&theme=onedark" alt="ucuk" /></a> </p>
   
 <p align="left"> <a href="https://x.com/ucukdev" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=x&style=for-the-badge" alt="" /></a> </p>
 
